@@ -1,4 +1,4 @@
 CarsVersionCode=6
-AmountForCars=3
+MaxClicksForCars=3
 PuzzlesVersionCode=1
-AmountForPuzzles=2
+MaxClicksForPuzzles=2
